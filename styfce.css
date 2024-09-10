@@ -1,0 +1,26 @@
+h1{
+   color: maroon;
+   background-color: black;
+   font-size:90px ;
+   font-weight: 200;
+   text-align: center;
+   border: 19px solid ,maroon;
+   border-radius: 40px;
+}
+body {
+   background-color:rgb(27, 4, 4) ;
+}
+h2 {
+   color: red;
+}
+p {
+   color: crimson;
+}
+IMG {
+
+
+   &:nth-of-type(2){
+
+      width: 1900px;
+   }
+}
